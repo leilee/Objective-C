@@ -2,7 +2,8 @@
 title: "UITableViewDelegate"
 summary: "Placeholders for required UITableViewDelegate protocol methods"
 platform: iOS
-completion-scope: Class Implementation
+completion-scopes: 
+  - ClassImplementation
 ---
 
 #pragma mark - UITableViewDelegate

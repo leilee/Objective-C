@@ -1,6 +1,7 @@
 ---
 title: "Log Stack Trace"
-completion-scope: Function or Method
+completion-scopes: 
+  - CodeBlock
 ---
 
 NSLog(@"Call Stack: %@", [NSThread callStackSymbols]);

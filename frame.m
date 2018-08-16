@@ -1,7 +1,8 @@
 ---
 title: "Set Frame"
 summary: "Initializes a view frame inside a code block"
-completion-scope: Function or Method
+completion-scopes:
+  - CodeBlock
 ---
 
 <# view #>.frame = ({

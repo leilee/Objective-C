@@ -1,7 +1,8 @@
 ---
 title: "UIControlEventTouchUpInside"
 platform: iOS
-completion-scope: Code Expression
+completion-scopes: 
+  - CodeExpression
 ---
 
 UIControlEventTouchUpInside

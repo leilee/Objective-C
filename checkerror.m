@@ -3,8 +3,8 @@ title: "CheckError"
 summary: "Function that extracts human-readable information from OSStatus codes."
 credit: "'Learning Core Audio: A Hands-on Guide to Audio Programming for Mac and iOS', by Chris Adamson, Kevin Avila"
 completion-scopes:
-  - Code Expression
-  - Function or Method
+  - CodeExpression
+  - CodeBlock
 ---
 
 static void CheckError(OSStatus error, const char *operation) {

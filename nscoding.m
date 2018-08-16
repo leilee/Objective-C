@@ -1,7 +1,8 @@
 ---
 title: "NSCoding Protocol Methods"
 summary: "Placeholders for NSCoding protocol methods"
-completion-scope: Class Implementation
+completion-scopes: 
+  - ClassImplementation
 ---
 
 #pragma mark - NSCoding

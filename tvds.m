@@ -2,7 +2,8 @@
 title: "UITableViewDataSource"
 summary: "Placeholders for required UITableViewDataSource delegate methods"
 platform: iOS
-completion-scope: Class Implementation
+completion-scopes: 
+  - ClassImplementation
 ---
 
 #pragma mark - UITableViewDataSource

@@ -2,7 +2,8 @@
 title: "UIViewController Lifecycle"
 summary: "Placeholders for all of the view controller lifecycle methods"
 platform: iOS
-completion-scope: Class Implementation
+completion-scopes: 
+  - ClassImplementation
 ---
 
 #pragma mark - UIViewController

@@ -1,7 +1,8 @@
 ---
 title: "__weak self"
 summary: "Declare weak reference to self"
-completion-scope: Function or Method
+completion-scopes: 
+  - CodeBlock
 ---
 
-__weak typeof(self)weakSelf = self;
+__weak __typeof(self) weakSelf = self;

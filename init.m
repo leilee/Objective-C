@@ -1,14 +1,13 @@
 ---
 title: "init"
 summary: "Designated incantation for your designated initializers"
-completion-scope: Function or Method
+completion-scopes: 
+  - CodeBlock
 ---
 
 self = [super init];
-if (!self) {
-  return nil;
+if (self) {
+  <#initializations#>
 }
-
-<#initializations#>
 
 return self;

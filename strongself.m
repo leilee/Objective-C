@@ -1,7 +1,8 @@
 ---
 title: "__strong self"
 summary: "Declare strong reference to weak reference"
-completion-scope: Function or Method
+completion-scopes: 
+  - CodeBlock
 ---
 
 __strong __typeof(<#weakSelf#>)strongSelf = <#weakSelf#>;
